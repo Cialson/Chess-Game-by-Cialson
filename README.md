@@ -1,4 +1,4 @@
-# ♟️ Chess Game by Nico
+# ♟️ Chess Game by Cialson
 
 Un jeu d'échecs à deux joueurs en local, développé en **Python** avec **Pygame**, avec pendule intégrée.
 
@@ -10,7 +10,7 @@ Un jeu d'échecs à deux joueurs en local, développé en **Python** avec **Pyga
 
 - **Développement :** mars – avril 2020
 - **Publication sur GitHub :** 7 octobre 2026
-- **Auteur :** Nicolas Brault ([@Cialson](https://github.com/Cialson))
+- **Auteur :** [Cialson](https://github.com/Cialson)
 
 > ⚠️ **Aucune IA générative n'a été utilisée** pour écrire le code de ce jeu ni pour créer ses visuels. L'ensemble du projet a été réalisé à la main en 2020.
 
